@@ -117,4 +117,8 @@ footer:hover {
     #resultCont div {
         font-size: medium;
     }
+
+    input[type='text']{
+        width: 70%;
+    }
 }
